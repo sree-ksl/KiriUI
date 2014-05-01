@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KiriUI</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="webview_init">    
+<![CDATA[
+	<html>
+	<head>	<title>untitled</title>	<link rel=\'stylesheet\' type=\'text/css\' href=\'file:///android_asset/style.css\' /></head>
+	<body>
+]]>
+</string>
+<string name="webview_shortend">    
+<![CDATA[
+	</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></body></html>
+]]>
+</string>
+<string name="webview_longend">    
+<![CDATA[
+	</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></body></html>
+]]>
+</string>
+    <string name="welcome_message">
+        <![CDATA[<table class=\'bubble-lila\' cellspacing=\'0\' cellpadding=\'0\'><tr><td class=\'head\'></td></tr><tr><td class=\'mid\'><div class=\'txt shadow\'>Hello, I am your Mobile Assistant, How can I help you?</div></td></tr><tr><td class=\'foot\'></td></tr></table>]]>
+</string>
+
+</resources>
